@@ -23,10 +23,10 @@
         "className": "fa fa-facebook"
       },
       {
-      "name": "twitter",
-      "url": "https://twitter.com/adibe_official",
-      "className": "fa fa-twitter"
-    },
+        "name": "twitter",
+        "url": "https://twitter.com/adibe_official",
+        "className": "fa fa-twitter"
+      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/saajansangha/",
@@ -56,11 +56,11 @@
     ],
     "work": [
       {
-        "company": "Freelancer, Upwork ",
+        "company": "Self-Employeed",
         "title": "Front-End Developer | Back-end Develover | Software Developer",
         "years": "2020",
         "description": "Solving Clients Problems"
-      } 
+      }
     ],
     "skills": [
       {
@@ -70,29 +70,17 @@
       {
         "name": "VueJs",
         "level": "80%"
-      }, 
+      },
       {
         "name": "Javascript",
         "level": "90%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "PHP && Laravel",
-        "level": "80%"
-      },
-      {
-        "name": "NodeJs && Express",
-        "level": "60%"
-      },
-      {
-        "name": "Java",
         "level": "70%"
       },
       {
